@@ -4,7 +4,7 @@ _Create **Rails** apps. **Faster**._
 
 ---
 - Title: RailsBricks
-- Version: 3.2.0
+- Version: 3.2.1
 ---
 
 ## Features
